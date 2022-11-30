@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"border-",
+				"border-right\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"top",
+				"padding-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"r",
+				"rgb()\tbackground"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"s",
+				"strong\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ba",
+				"background-attachment\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"bg",
+				"bg-blanco"
+			],
+			[
+				"b",
+				"bg-fondomorado"
+			],
+			[
+				"backg",
+				"background-repeat\tproperty"
+			],
+			[
+				"fff",
+				"fffbcc"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"se",
+				"sans-serif\tfont-family"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Desktop/pagina1_wed - copia/pagina basica/folleto.html",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/estilo.css",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/estilos.css",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/index.html",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/Plazaché",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/imagenes/D1.jpg",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/estilomaqueta.css",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/Maqueta.html",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/imagenes/mapa_unal_bogota_universidad_nacional.jpg",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/imagenes/fondo.jpg",
+		"/D/Desktop/pagina1_wed - copia/pagina basica/imagenes/fondo1.jpg",
+		"/D/Documents/Programas programacion mictic/test.py",
+		"/D/Documents/Programas programacion mictic/1",
+		"/D/Documents/Programas programacion mictic/#include",
+		"/D/Desktop/pagina1_wed/Contactanos.html",
+		"/D/Desktop/pagina1_wed/contenido.html",
+		"/D/Desktop/pagina1_wed/style.css",
+		"/D/Desktop/pagina1_wed/index.html",
+		"/D/Desktop/pagina1_wed/Formulario.html",
+		"/D/Desktop/pagina1_wed/blog.html",
+		"/D/Desktop/pagina1_wed - copia/maqueta proyecto/style.css",
+		"/D/Desktop/pagina1_wed - copia/maqueta proyecto/Contactanos.html",
+		"/D/Desktop/pagina1_wed - copia/maqueta proyecto/contenido.html",
+		"/D/Desktop/pagina1_wed - copia/maqueta proyecto/index.html",
+		"/C/inetpub/wwwroot/pagina1_wed/estilos.css",
+		"/C/inetpub/wwwroot/pagina1_wed/estilomaqueta.css",
+		"/C/inetpub/wwwroot/pagina1_wed/estilo.css",
+		"/C/inetpub/wwwroot/pagina1_wed/blog.html",
+		"/C/inetpub/wwwroot/pagina1_wed/Maqueta.html",
+		"/C/inetpub/wwwroot/pagina1_wed/folleto.html",
+		"/C/inetpub/wwwroot/pagina1_wed/style.css",
+		"/C/inetpub/wwwroot/pagina1_wed/index.html",
+		"/C/inetpub/wwwroot/pagina1_wed/Contactanos.html",
+		"/C/inetpub/wwwroot/pagina1_wed/contenido.html",
+		"/C/inetpub/wwwroot/pagina1_wed/imagenes/fondoazulnegro.jpg",
+		"/C/inetpub/wwwroot/pagina1_wed/imagenes/Llave  alemana.gif",
+		"/C/inetpub/wwwroot/pagina1_wed/imagenes/conferencia.gif",
+		"/C/inetpub/wwwroot/pagina1_wed/imagenes/marketing.png",
+		"/C/inetpub/wwwroot/pagina1_wed/estilomaqueta.html",
+		"/C/inetpub/wwwroot/pagina1_wed/imagenes/IMG_20190603_192253003_PORTRAIT.jpg",
+		"/C/inetpub/wwwroot/pagina1_wed/contenido",
+		"/C/inetpub/wwwroot/pagina2_wed/priemerapaginawed.html",
+		"/C/inetpub/wwwroot/pagina2_wed/prueba.html",
+		"/C/inetpub/wwwroot/paginas_web/prueba1.html",
+		"/C/inetpub/wwwroot/paginas_web/selectores.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Route un.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
